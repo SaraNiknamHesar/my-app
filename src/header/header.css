@@ -1,0 +1,29 @@
+.menuheader-wrapper {
+  background-image: url("/public/hero-bg.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.text-brand {
+  color: white;
+  font-size: 35px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+}
+ul li:not(:first-child) {
+  list-style: none;
+  color: white;
+}
+ul li:first-child{
+  list-style: none;
+  color: orange;
+}
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+.start-btn{
+  
+}
